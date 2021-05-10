@@ -22,6 +22,14 @@ The application is built with using Node.js, GraphQL, Apollo Server, MongoDB and
 ## Deployed Application 
 https://shop-shopzoha.herokuapp.com/
 
+
+## Screen shot ![! Screenshot](https://user-images.githubusercontent.com/74481523/117603829-01ac3700-b122-11eb-93e7-4b2d4fec2ef2.png)
+
+
+
+
+
+
 ##User Story
 AS a senior engineer working on an e-commerce platform
 I WANT my platform to use Redux to manage global state instead of the Context API
